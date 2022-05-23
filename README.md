@@ -1,4 +1,4 @@
-ok, It's my first Lua scripts that I'm upload to Gamebanana. I think that cutscenes for FNF mods is one of the main parts of the mod and I think that modders know how to write it. 
+ok, It's my first Lua scripts that I'm upload to GitHub. I think that cutscenes for FNF mods is one of the main parts of the mod and I think that modders know how to write it. 
 But I think that some people can't write a code, so I'll write my own code that you can download and use in your mod. 
 
 
